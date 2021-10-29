@@ -10,7 +10,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;&nbsp;
 ![POSTMAN](https://img.shields.io/badge/-POSTMAN-white?style=flat&logo=postman&logoColor=red)&nbsp;&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
