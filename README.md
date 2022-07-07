@@ -31,3 +31,5 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pravesh22&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+ <a href="https://github.com/bikashsaud/github-readme-activity-graph"><img alt="bikashsaud's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=bikashsaud&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
