@@ -32,4 +32,4 @@
 </a>
 </p>
 
- <a href="https://github.com/bikashsaud/github-readme-activity-graph"><img alt="bikashsaud's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=bikashsaud&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+ <a href="https://github.com/pravesh22/github-readme-activity-graph"><img alt="Pravesh's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=pravesh22&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
